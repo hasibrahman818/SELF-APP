@@ -1,6 +1,5 @@
 {
   "expo": {
-    "schema": "selfie-app",
     "name": "SELFIE-APP",
     "slug": "SELFIE-APP",
     "version": "1.0.0",
@@ -24,9 +23,6 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    },
-    "plugins": [
-      "expo-router"
-    ]
+    }
   }
 }
